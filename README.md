@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Devidas Deshpande</h1>
 <h3 align="center">A passionate frontend developer:Crafting Immersive Web Experiences</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva3333&label=Profile%20views&color=0e75b6&style=flat" alt="atharva3333" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva3333" alt="atharva3333" /></a> </p>
 
 - 🔭 I’m currently working on [wowwill - Online will making webApp](https://wowwill.in/)
 
