@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js , Next.js**
 
-- 👨‍💻 All of my projects are available at [https://atharva3333.github.io/Atharva-Portfolio/](https://atharva3333.github.io/Atharva-Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://atharva-deshpande.netlify.app/)
 
 - 📫 How to reach me **atharvad660@gmail.com**
 
